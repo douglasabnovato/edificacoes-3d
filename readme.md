@@ -14,7 +14,7 @@
 - [Inspirações 7](http://www.grautecnico.com.br/blog/curitiba/tecnico-em-edificacoes-quanto-ganha-conheca-a-profissao/)
 - [Inspirações 8](https://blog.sesisenai.org.br/tecnico-em-edificacoes/)
 - [Inspirações 9](https://urbano.pbh.gov.br/edificacoes/#/)
-- [Inspirações 10](https://projetopronto.com.br/)/)
+- [Inspirações 10](https://projetopronto.com.br/)
 - [Inspirações 11](https://www.plantapronta.com.br/)
 - [Inspirações 12](https://123projetei.com/)
 - [Inspirações 13](https://archshop.com.br/)
