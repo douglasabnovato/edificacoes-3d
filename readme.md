@@ -49,5 +49,5 @@ Pasta com os projetos e pasta com as imagens.
 - Mobile
 
 <p align="left" style="display: flex; align-items: flex-start; justify-content: left;">
-  <img alt="headset" title="#headset" src="./.github/mobile-1.jpg" width="400px">
+  <img alt="headset" title="#headset" src="./.github/mobile-1.jpg" height="400px">
 </p>
