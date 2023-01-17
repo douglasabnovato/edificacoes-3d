@@ -1,4 +1,10 @@
-### Edificações 3D
+<h4 align="center"> 
+	🚧 Edificações 3D 🚀
+</h4>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="edificações-3D" title="#edificoes-3D" src="./.github/desktop-1.jpg">
+</p>   
 
 - Aplicação para expor detalhes de projetos e imagens que demonstram como ficará depois de pronto.
 - Permitir visualizar em dispositivos: smartphones, tablets e desktops.
@@ -24,3 +30,24 @@
 ### Organização de projeto
 
 Pasta com os projetos e pasta com as imagens.
+
+## Tarefas
+
+- [x] inserir os arquivos das imagens
+- [ ] inserir os arquivos dos projetos
+- [ ] configurar os id e links menus
+- [ ] favicon
+
+## Telas
+
+- Desktop
+
+<p align="left" style="display: flex; align-items: flex-start; justify-content: left;">
+  <img alt="headset" title="#headset" src="./.github/desktop-1.jpg" width="400px">
+</p>
+
+- Mobile
+
+<p align="left" style="display: flex; align-items: flex-start; justify-content: left;">
+  <img alt="headset" title="#headset" src="./.github/mobile-1.jpg" width="400px">
+</p>
