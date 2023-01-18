@@ -34,9 +34,10 @@ Pasta com os projetos e pasta com as imagens.
 ## Tarefas
 
 - [x] inserir os arquivos das imagens
-- [ ] inserir os arquivos dos projetos
+- [x] mantidos os arquivos dos projetos
 - [ ] configurar os id e links menus
-- [ ] favicon
+- [ ] inserir detalhes e informações para os projetos
+- [x] favicon
 
 ## Telas
 
